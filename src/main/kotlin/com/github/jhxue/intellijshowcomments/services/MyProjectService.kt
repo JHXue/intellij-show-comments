@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.jhxue.intellijshowcomments.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jhxue.intellijshowcomments.MyBundle
 
 class MyProjectService(project: Project) {
 

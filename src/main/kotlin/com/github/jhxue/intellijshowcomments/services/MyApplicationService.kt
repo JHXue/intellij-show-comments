@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.jhxue.intellijshowcomments.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jhxue.intellijshowcomments.MyBundle
 
 class MyApplicationService {
 
